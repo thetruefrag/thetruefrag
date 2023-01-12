@@ -1,8 +1,6 @@
 <h1 align="center">Salut je suis Frag</h1>
 <h3 align="center">Un jeune vidéaste et apprenti développeur autiste</h3>
 
-- 🔭 Je travail actuellement sur [mon site Web](https://thetruefrag.github.io/)
-
 <h3 align="left">Langages :</h3>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
