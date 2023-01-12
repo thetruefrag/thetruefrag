@@ -1,5 +1,3 @@
-<img src="discord-avatar-512-WNC04.png" align="center">
-
 <h1 align="center">Salut je suis Frag</h1>
 <h3 align="center">Un jeune vidéaste et apprenti développeur autiste</h3>
 
