@@ -1,5 +1,5 @@
 <h1 align="center">Salut je suis Frag</h1>
-<h3 align="center">Un jeune vidéaste et apprenti développeur autiste</h3>
+<h3 align="center">Un jeune vidéaste et apprenti développeur Web, également autiste</h3>
 
 <h3 align="left">Langages :</h3>
 
