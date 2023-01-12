@@ -1,5 +1,5 @@
 <h1 align="center">Salut je suis Frag</h1>
-<h3 align="center">Un jeune vidéaste autiste</h3>
+<h3 align="center">Un jeune vidéaste et apprenti développeur autiste</h3>
 
 - 🔭 Je travail actuellement sur [mon site Web](https://thetruefrag.github.io/)
 
